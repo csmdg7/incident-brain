@@ -115,16 +115,12 @@ A typical flow is:
 3. Approve or reject the remediation
 4. Repeat the same scenario to show recall and learned behavior
 
-## Important note
-
-The screenshots used during development were kept locally and removed from the repo to keep the project clean and avoid generic template artifacts. They are not required for the app to run.
-
 ## Troubleshooting
 
 - If the frontend says the AI is unavailable, make sure [frontend/.env.local](frontend/.env.local) contains a valid Gemini key.
 - If the backend fails, make sure the terminal has the proper Groq/Hindsight env vars set in the same session.
 - If the browser hits 0.0.0.0 instead of localhost, use http://127.0.0.1:3000 or http://localhost:3000.
-
+  
 ## License
 
 This project is for hackathon/demo use and is not a generic starter template.
