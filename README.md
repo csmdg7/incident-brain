@@ -7,7 +7,7 @@ Incident Brain is an SRE incident-response dashboard and AI remediation assistan
 - a Python FastAPI backend that orchestrates the incident workflow and memory loop
 - Hindsight-style long-term memory logic for incident recall and learning over time
 
-This project is not a generic Google AI Studio starter app. It is a custom incident-response prototype built for the Hindsight hackathon challenge.
+This project is not a generic Google AI Studio starter app. It is a custom incident-response prototype built for the MICROSOFT hackathon challenge.
 
 ## What this repo contains
 
