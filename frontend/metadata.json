@@ -1,0 +1,6 @@
+{
+  "name": "Incident Brain",
+  "description": "Real-time AI-powered Incident Operations & SRE Command Center with automated root cause analysis and live cluster telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

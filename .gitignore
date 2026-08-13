@@ -1,0 +1,13 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+C:\Users\Chetana\OneDrive\Desktop\MS HACKATHON\Screenshot 2026-08-11 221710.png
+C:\Users\Chetana\OneDrive\Desktop\MS HACKATHON\Screenshot 2026-08-11 222628.png
+C:\Users\Chetana\OneDrive\Desktop\MS HACKATHON\Screenshot 2026-08-11 222835.png
+C:\Users\Chetana\OneDrive\Desktop\MS HACKATHON\Screenshot 2026-08-11 223032.png
+C:\Users\Chetana\OneDrive\Desktop\MS HACKATHON\Screenshot 2026-08-11 223201.png
